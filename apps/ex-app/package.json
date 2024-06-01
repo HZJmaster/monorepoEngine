@@ -1,0 +1,14 @@
+{
+    "name": "@monorepo-engine/exapp",
+    "private": true,
+    "version": "0.1.0",
+    "description": "local ex-app package",
+    "author": "HZJMaster",
+    "license": "MIT",
+    "scripts": {
+        "debug": "ts-node ./src/index.ts"
+    },
+    "dependencies": {
+        "@monorepo-engine/utils": "workspace:*"
+    }
+}

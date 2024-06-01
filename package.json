@@ -1,0 +1,15 @@
+{
+  "name": "@monorepo-engine/root",
+  "private": true,
+  "version": "0.1.0",
+  "description": "try to use monorepo and engine",
+  "author": "HZJMaster",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.11.0",
+    "@typescript-eslint/parser": "^7.11.0",
+    "eslint": "^9.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
